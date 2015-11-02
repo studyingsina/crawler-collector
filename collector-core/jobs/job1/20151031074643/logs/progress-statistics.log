@@ -1,0 +1,18 @@
+           timestamp  discovered      queued   downloaded       doc/s(avg)  KB/s(avg)   dl-failures   busy-thread   mem-use-KB  heap-size-KB   congestion   max-depth   avg-depth
+2015-10-31T07:46:44Z           0           0            0           0(NaN)       0(0)             0             0        45943        141312            0          -1           0
+2015-10-31T07:46:44Z CRAWL RUNNING - Preparing
+2015-10-31T07:46:44Z           1           1            0             0(0)       0(0)             0             0        51713        137728            ∞           1           1
+2015-10-31T07:46:44Z CRAWL PAUSED - Paused
+2015-10-31T07:46:49Z CRAWL RUNNING - Running
+2015-10-31T07:47:04Z          37          26           11       0.55(0.73)       3(4)             0             0       151401        231936            1          17           5
+2015-10-31T07:47:24Z         319         217           91          4(2.59)     74(44)             0             2       123004        231936            1         142          36
+2015-10-31T07:47:44Z         345         221          113        1.1(2.05)     19(35)             0             1       146625        231936            1         144          73
+2015-10-31T07:48:04Z         412         280          121        0.4(1.61)     11(29)             0             0       163937        231936            1         152         140
+2015-10-31T07:48:24Z         438         291          136       0.75(1.43)      5(24)             0             0        69306        308224            1         148          48
+2015-10-31T07:48:44Z         439         284          144        0.4(1.25)      2(20)             0             0        75513        308224            1         142         142
+2015-10-31T07:48:58Z CRAWL WAITING - Pausing - Waiting for threads to finish
+2015-10-31T07:48:59Z         439         281          147       0.19(1.13)      3(18)             0             0       104772        308224            1         142         140
+2015-10-31T07:48:59Z CRAWL PAUSED - Paused
+2015-10-31T07:48:59Z CRAWL ENDING - Finished - Ended by operator
+2015-10-31T07:49:00Z         439         281          147          0(1.13)      0(18)             0             0       111643        308224            1         142         140
+2015-10-31T07:49:00Z CRAWL ENDED - Finished - Ended by operator

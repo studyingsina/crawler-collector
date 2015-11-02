@@ -1,0 +1,11 @@
+[#urls] [#bytes] [mime-types]
+40 777419 text/html
+28 3512 text/dns
+22 238290 image/png
+16 9438 text/plain
+12 548349 application/x-javascript
+10 269248 text/css
+8 588468 image/jpeg
+6 33319 image/x-icon
+4 4305 image/gif
+1 658 text/xml
