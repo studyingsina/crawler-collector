@@ -36,6 +36,8 @@ public class CollectorTester {
 		crawJob.getCrawlController().requestCrawlPause();
 		// unpause or resume job
 		crawJob.getCrawlController().requestCrawlResume();
+		// pause job
+		crawJob.getCrawlController().requestCrawlPause();
 		// terminate job
 		crawJob.terminate();
 	}
