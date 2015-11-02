@@ -5,7 +5,7 @@ import org.archive.crawler.Heritrix;
 /**
  * Unit test for simple App.
  */
-public class AppTest {
+public class HeritrixTester {
 
 	public static void main(String[] args) {
 		try {

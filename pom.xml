@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tryicy</groupId>
 	<artifactId>collector</artifactId>
@@ -11,8 +12,8 @@
 		<module>collector-common</module>
 		<module>collector-web</module>
 		<module>collector-core</module>
-    <module>collector-job</module>
-  </modules>
+		<module>collector-job</module>
+	</modules>
 
 	<properties>
 		<org.springframework-version>4.1.1.RELEASE</org.springframework-version>
@@ -58,6 +59,12 @@
 			<artifactId>heritrix-contrib</artifactId>
 			<version>${heritrix-version}</version>
 			<scope>compile</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
 		</dependency>
 	</dependencies>
 
