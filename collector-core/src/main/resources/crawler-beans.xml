@@ -53,7 +53,7 @@ metadata.description=my first crawler job
    <props>
     <prop key="seeds.textSource.value">
 
-http://www.douban.com/note/285516443/
+http://www.babytree.com/learn/article/6203#know_article_content_page_0
 
     </prop>
    </props>

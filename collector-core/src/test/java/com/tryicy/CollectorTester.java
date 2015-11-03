@@ -1,8 +1,3 @@
-/**
- * Copyright (c) 2010-2015 meituan.com
- * All rights reserved.
- * 酒店后台研发.
- */
 package com.tryicy;
 
 import java.io.File;
@@ -15,7 +10,7 @@ import org.junit.Test;
 /**
  * Desc
  * 
- * @author: zhangjunwei@meituan.com
+ * @author: zhangjunwei
  * @Date: 2015年11月2日
  */
 public class CollectorTester {
