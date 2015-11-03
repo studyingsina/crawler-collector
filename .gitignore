@@ -23,3 +23,4 @@ collector-web/.project
 collector-core/adhoc.keystore
 collector-core/heritrix_dmesg.log
 collector-core/jobs/
+collector-core/jetty.logs_IS_UNDEFINED/
